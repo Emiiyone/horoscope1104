@@ -42,7 +42,11 @@ https://www.pahoo.org/e-soul/webtech/phpgd/phpgd-27-01.shtm#zodiacEarth
 ⭐️PHP設定（Mac OS12以降）と、ターミナルでのLocalhost設定方法
 
 https://guntablog.com/monterey/
+
 https://nullnull.dev/blog/how-to-install-homebrew-on-m1-mac/
+
 https://brew.sh/
+
 https://macoblog.com/php-localserver/
+
 https://qiita.com/Keita08/items/5a8f10bb42f8bfcc1432
