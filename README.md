@@ -19,18 +19,25 @@
 - [質問]
 - [疑問]
 - [感想]
+  
 「自分でホロスコープを制作できるようになる」が入学の目的の1つだったので、参考コードはきちんと理解できていないけど、
 ホロスコープを表示させて、カスタマイズできたことが嬉しかった。
+
 - [tips]
+  
 意気揚々と新しいMacBookを買ったら、新しいMac（OS12以降）は、PHP入ってなくて泣きそうになりました！
+参考コードがPHPだったので、ローカルでも動作を確認できるように、PHP8を設定しました。
 同じことでお困りの皆さまがいたら、下記を参考になさってください。簡単に設定できます。
 ついでに、XAMMPじゃなくてターミナルでのローカルホストの設定方法もシェアです。
+
 - [参考記事]
 
 ⭐️ホロスコープ
+
 https://www.pahoo.org/e-soul/webtech/phpgd/phpgd-27-01.shtm#zodiacEarth
 
 ⭐️PHP設定（Mac OS12以降）と、ターミナルでのLocalhost設定方法
+
 https://guntablog.com/monterey/
 https://nullnull.dev/blog/how-to-install-homebrew-on-m1-mac/
 https://brew.sh/
