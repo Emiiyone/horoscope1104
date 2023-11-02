@@ -10,6 +10,7 @@ body{
     position: relative;
     text-align: center;
     margin: auto;
+    width: 1080px;
 }
 .contents h2{
     width: 800px;
