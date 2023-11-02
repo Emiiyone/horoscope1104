@@ -1,0 +1,226 @@
+body{
+	font-family: '游明朝','Yu Mincho',YuMincho,'Hiragino Mincho Pro',serif;
+}
+
+.wrapper {
+    margin: 20px auto 0;
+}
+
+.wrapper .contents {
+    position: relative;
+    text-align: center;
+    margin: auto;
+    width: 1080px;
+}
+.contents h2{
+    width: 800px;
+    max-width: 800px;
+    text-align: center;
+    margin: auto;
+}
+.contents h2 img{
+    width: 100%;
+}
+.contents .coment, .contents .select_ttl {
+    margin: 15px auto 5px;
+}
+.contents .color {
+    position: absolute;
+    background-image: url("../../img/fukidashi_bg.png");
+    width: 300px;
+    height: 335px;
+    top: 100px;
+    left: 80px;
+}
+.contents .color p {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 40px;
+    left: 130px;
+    writing-mode: vertical-rl;
+    font-size: 40px;
+}
+.contents .caractor {
+    position: relative;
+}
+
+.caractor .Aries {
+    position: absolute;
+    width: 350px;
+    height: 500px;
+    top: -150px;
+    right: 30px;
+	background-image: url("../../img/chara01.png");
+    z-index: 2;
+}
+
+.caractor .Taurus {
+    position: absolute;
+    width: 350px;
+    height: 500px;
+    top: -150px;
+    right: 30px;
+	background-image: url("../../img/chara02.png");
+    z-index: 2;
+}
+
+.caractor .Gemini {
+    position: absolute;
+    width: 350px;
+    height: 500px;
+    top: -150px;
+    right: 30px;
+	background-image: url("../../img/chara03.png");
+    z-index: 2;
+}
+
+.caractor .Cancer {
+    position: absolute;
+    width: 350px;
+    height: 500px;
+    top: -150px;
+    right: 30px;
+	background-image: url("../../img/chara04.png");
+    z-index: 2;
+}
+.caractor  .Leo {
+    position: absolute;
+    width: 350px;
+    height: 500px;
+    top: -150px;
+    right: 30px;
+	background-image: url("../../img/chara05.png");
+    z-index: 2;
+}
+
+.caractor .Virgo {
+    position: absolute;
+    width: 350px;
+    height: 500px;
+    top: -150px;
+    right: 30px;
+	background-image: url("../../img/chara06.png");
+    z-index: 2;
+}
+
+.caractor .Libra {
+    position: absolute;
+    width: 350px;
+    height: 500px;
+    top: -150px;
+    right: 30px;
+	background-image: url("../../img/chara07.png");
+    z-index: 2;
+}
+
+.caractor .Scorpio {
+    position: absolute;
+    width: 350px;
+    height: 500px;
+    top: -150px;
+    right: 30px;
+	background-image: url("../../img/chara08.png");
+    z-index: 2;
+}
+
+.caractor .Sagittarius {
+    position: absolute;
+    width: 350px;
+    height: 500px;
+    top: -150px;
+    right: 30px;
+	background-image: url("../../img/chara09.png");
+    z-index: 2;
+
+}
+
+.caractor .Capricorn {
+    position: absolute;
+    width: 350px;
+    height: 500px;
+    top: -150px;
+    right: 30px;
+	background-image: url("../../img/chara10.png");
+    z-index: 2;
+
+}
+
+.caractor .Aquarius {
+    position: absolute;
+    width: 350px;
+    height: 500px;
+    top: -150px;
+    right: 30px;
+	background-image: url("../../img/chara11.png");
+    z-index: 2;
+
+}
+
+.caractor .Pisces {
+    position: absolute;
+    width: 350px;
+    height: 500px;
+    top: -150px;
+    right: 30px;
+	background-image: url("../../img/chara12.png");
+    z-index: 2;
+}
+
+form {
+    margin-top: -15px;
+}
+.btn {
+    position: absolute;
+    top: 36%;
+    left: 50%;
+    transform: translate(-50%, -35%);
+    z-index: 3;
+}
+.btn input {
+    width: 120px;
+    height: 50px;
+    border: none;
+    background-color: #222;
+    color: #fff;
+    cursor: pointer;
+    margin: 0 5px;
+    z-index: 3;
+    font-family: '游明朝','Yu Mincho',YuMincho,'Hiragino Mincho Pro',serif;
+}
+.btn input:hover {
+    opacity: .7;
+    transition : 1s;
+}
+
+select {
+    height: 30px;
+    cursor: pointer;
+    padding: 5px;
+    margin: 0 3px;
+}
+canvas {
+    margin: 90px auto 0;
+}
+
+.date-sunday	.ui-state-default {
+	background-image: none;
+	background-color: #FF0000;
+	color: #FFFFFF;
+}
+.date-saturday	.ui-state-default {
+	background-image: none;
+	background-color: #0000FF;
+	color: #FFFFFF;
+}
+.date-holiday0	.ui-state-default {
+	background-image: none;
+	background-color: #FF6666;
+	color: #FFFFFF;
+}
+.date-holiday1	.ui-state-default {
+	background-image: none;
+	background-color: #FFCCCC;
+	color: #000088;
+}
+
